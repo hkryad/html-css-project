@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    width: 100%;
+ 
+}
+
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+
+img{
+
+    width: 960px;
+    height: 100%;
+}
+
+
+.blogbody{
+    margin-bottom: 100px;
+}
+
+footer{
+    text-align: center;
+}
