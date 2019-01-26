@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    width: 100%;
+ 
+}
+
+
+.container{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.mainside {
+    width: 60%;
+    position: absolute;
+    float: left;
+
+}
+
+.blogpost {
+
+    padding-bottom: 30px;
+}
+
+.post3 {
+
+    width: 25%;
+display: inline-block;
+padding-right:60px ;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+}
+
+img{
+
+    width: 100%;
+    height: 100%;
+}
+
+
+
+footer{
+    text-align: center;
+}
